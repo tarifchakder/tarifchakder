@@ -1,7 +1,5 @@
 ## Hi there, I'm Md Tarif Chakder👋
-
 ## A Passionate Android Engineer
-
 - 🌱 I’m currently trying to learn Jetpack Compose and Kotlin Multiplatform Mobile.
 - 🔭 I’m currently working on some of my side projects :P
 - 📫 How to reach me tarifchakder@outlook.com
