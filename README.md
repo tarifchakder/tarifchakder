@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Android Engineer
 
-I’m passionate about building modern, user-friendly Android apps. Currently exploring **Jetpack Compose** and **Kotlin Multiplatform Mobile (KMM)** while working on exciting side projects.
+I’m passionate about building modern, user-friendly Android apps. Currently exploring **Jetpack Compose** and **Kotlin Multiplatform Mobile (KMP)** while working on exciting side projects.
 
-- 📱 Android & Kotlin lover  
+- 📱 Android & Kotlin KMP lover  
 - 🌱 Always learning and building  
 - 📫 Email: [tarifchakdar@gmail.com](mailto:tarifchakdar@gmail.com)  
 - 💼 Available for freelance & new opportunities
