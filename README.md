@@ -9,13 +9,6 @@ I’m passionate about building modern, user-friendly Android apps. Currently ex
 - 📫 Email: [tarifchakdar@gmail.com](mailto:tarifchakdar@gmail.com)  
 - 💼 Available for freelance & new opportunities
 
----
-
-⭐ Explore my repos and let’s build something great! 
-
-
----
-
 💙 Thanks for visiting my profile! Feel free to explore my repositories, star ⭐ projects you like, or reach out for collaborations.
 
 <!---
